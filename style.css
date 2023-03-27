@@ -2,5 +2,12 @@ body {
     background-color: black;
 }
 h1, h2, h3, p, a {
-    color: white;
+    color: rgb(0, 0, 0);
 }
+
+body {
+    background-image: url("/Users/jordanbuchanan/Documents/mypersonalwebsite.quickquad");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
